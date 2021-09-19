@@ -1,5 +1,6 @@
 import random
 import plotext as plt
+import time
 
 print("hello ,world")
 
@@ -24,6 +25,8 @@ flip_coin()
 print("Result:")
 for i in range(len(flipResultArr)):
   print("Flip " + str(i+1) + ": " + flipResultArr[i])
+  time.sleep(.7)
+
 
 print("")
 print("Chart:")
