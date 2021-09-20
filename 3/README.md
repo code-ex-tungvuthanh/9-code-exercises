@@ -9,6 +9,7 @@ This program is written in React Native and scaffolded with [expo](https://expo.
   - [iOS App Store](https://itunes.com/apps/exponent)
 
 ### Run Program
+- install dependencies ```npm install```
 - connect mobile device to same network as dev machine
 - open **expo** app on device
 - run ```expo start```
