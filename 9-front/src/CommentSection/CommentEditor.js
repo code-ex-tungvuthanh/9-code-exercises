@@ -54,6 +54,10 @@ export default function CommentEditor(props){
     }
   }
 
+  if(currentUser == null){
+    return null;
+  }
+
   return (
     <Card className="mt-2">
       <Row>

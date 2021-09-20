@@ -1,4 +1,4 @@
-var array = ["c", "a", "e", "f", "d", "l", "j", "j", "n", "i", "j", "h"];
+var array = ["c", "a", "e", "f", "d", "l", "j", "m", "n", "i", "j", "h"];
 
 // Basic implementation (pivot is the first element of the array)
 function sort(array) {

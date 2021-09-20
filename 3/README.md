@@ -1,11 +1,16 @@
-# Sample Snack app
+## Run Test Exercise 3
+This program is written in React Native and scaffolded with [expo](https://expo.dev/)
+### Download and Install nodejs
+- download and install node js from [here](https://nodejs.org/en/download/)
+### Install and set up expo
+- install expo ```npm install --global expo-cli```
+- Install expo app in a test mobile device or emulator
+  - [Android Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)
+  - [iOS App Store](https://itunes.com/apps/exponent)
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### Run Program
+- connect mobile device to same network as dev machine
+- open **expo** app on device
+- run ```expo start```
+- on opened browser window, use device to scan QR or copy connection link if using emulator (use **LAN** connection mode)
+- App will be open on device
